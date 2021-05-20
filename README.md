@@ -1,1 +1,1 @@
-# zuri-function-project-1
+# zuri-frontend algorithm 1
